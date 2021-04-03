@@ -21,7 +21,7 @@ const Quote = () => {
 		<div className="Quote">
 			<h1>{quote}</h1>
 			<button onClick={() => isFetching(!fetching)} className="generate-btn">
-				New quote
+				New Quote
 			</button>
 		</div>
 	);
