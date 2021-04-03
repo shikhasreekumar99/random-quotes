@@ -21,7 +21,7 @@ const App = () => {
 	return (
 		<div className="App">
 			<div className="quote-container">
-				<h1 className="title">Quote of the day</h1>
+				<h1 className="title">Quote of the Day 😊</h1>
 				<Quote />
 			</div>
 			<div className="image-container">
